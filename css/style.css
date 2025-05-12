@@ -1,0 +1,10 @@
+body {
+    padding: 2em;
+    margin: 2em ;
+    background-color: antiquewhite;
+}
+
+a   {
+    color: chocolate;
+    text-decoration: none;
+}
